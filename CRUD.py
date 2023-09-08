@@ -1,6 +1,4 @@
 # CRUD-Py-MySQL
-Interação entre Python e MySQL
-# CRUD-Py-MySQL
 #Interação entre Python e MySQL
 <HTML>
 <HEAD>
